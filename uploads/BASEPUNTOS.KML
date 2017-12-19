@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BASEPUNTOS.KML</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>BASEPUNTOS.KML</name>
+		<description>BASEPUNTOS</description>
+		<Placemark>
+			<name>Cra 8 # 191 - 10</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 8 # 191 - 10</td></tr>
+    <tr><td>BARRIO</td><td>EL PALMAR</td></tr>
+    <tr><td>LOCALIDAD</td><td>USAQUEN</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.028764,4.768023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 69F # 17 - 45</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 69F # 17 - 45</td></tr>
+    <tr><td>BARRIO</td><td>FRANCO</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.124262,4.647276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cr 43 #  15-55 Local 2</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cr 43 #  15-55 Local 2</td></tr>
+    <tr><td>BARRIO</td><td>EL EJIDO</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.100137,4.625803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 81C # 13A-55</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 81C # 13A-55</td></tr>
+    <tr><td>BARRIO</td><td>ANDALUCIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>KENNEDY</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.138862,4.653006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ave Cra 68 10 80</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Ave Cra 68 10 80</td></tr>
+    <tr><td>BARRIO</td><td>SALAZAR GOMEZ</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.120509,4.633038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenida Americas  # 59-11</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Avenida Americas  # 59-11</td></tr>
+    <tr><td>BARRIO</td><td>LA TRINIDAD</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.115272,4.627857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenida Carrera 68 # 19-42 Local 102</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Avenida Carrera 68 # 19-42 Local 102</td></tr>
+    <tr><td>BARRIO</td><td>CIUDAD SALITRE</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.112247,4.643035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 16 # 186 A 26</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 16 # 186 A 26</td></tr>
+    <tr><td>BARRIO</td><td>EL VERVENAL</td></tr>
+    <tr><td>LOCALIDAD</td><td>USAQUEN</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.037379,4.763257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av 50 17 08 BatallonPm 13</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Av 50 17 08 BatallonPm 13</td></tr>
+    <tr><td>BARRIO</td><td>ORTEZAL</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.104103,4.630923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 13 # 46-64</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 13 # 46-64</td></tr>
+    <tr><td>BARRIO</td><td>EL EJIDO</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.10429499999999,4.625623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Diagonal 40  #  48A - 56</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Diagonal 40  #  48A - 56</td></tr>
+    <tr><td>BARRIO</td><td>LA ESMERALDA</td></tr>
+    <tr><td>LOCALIDAD</td><td>TEUSAQUILLO</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.093673,4.64778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 70 22D 77 Local113</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 70 22D 77 Local113</td></tr>
+    <tr><td>BARRIO</td><td>LA ESPERANZA SUR</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.116158,4.658082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 9 # 75-10</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 9 # 75-10</td></tr>
+    <tr><td>BARRIO</td><td>EL PORTAL DE LAS AMERICAS</td></tr>
+    <tr><td>LOCALIDAD</td><td>KENNEDY</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.139202,4.641136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 24 A # 68 C 86</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 24 A # 68 C 86</td></tr>
+    <tr><td>BARRIO</td><td>CIUDAD SALITRE OCCIDENTAL</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.10967599999999,4.654392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 33B 69 13 Local225</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 33B 69 13 Local225</td></tr>
+    <tr><td>BARRIO</td><td>LA ESPERANZA SUR</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.11855,4.655359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cll 25G # 85C-05</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cll 25G # 85C-05</td></tr>
+    <tr><td>BARRIO</td><td>SANTA CECILIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.120336,4.675087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 86  #  19 – 50</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 86  #  19 – 50</td></tr>
+    <tr><td>BARRIO</td><td>EL TINTAL A.S.D.</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.133374,4.662193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kra 60 5C - 47</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Kra 60 5C - 47</td></tr>
+    <tr><td>BARRIO</td><td>LA TRINIDAD</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.116157,4.627508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 69 # 25 - 15 Local2</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 69 # 25 - 15 Local2</td></tr>
+    <tr><td>BARRIO</td><td>LA ESPERANZA NORTE</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.108265,4.656937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 77A  # 44A-07</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 77A  # 44A-07</td></tr>
+    <tr><td>BARRIO</td><td>SANTA CECILIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.116237,4.669408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av. Calle 24 #  81C - 10</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Av. Calle 24 #  81C - 10</td></tr>
+    <tr><td>BARRIO</td><td>SANTA CECILIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.12202000000001,4.66861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Av. La Esperanza #  74ª– 84</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Av. La Esperanza #  74ª– 84</td></tr>
+    <tr><td>BARRIO</td><td>MODELIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.119018,4.665249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 82 # 22 A - 23</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 82 # 22 A - 23</td></tr>
+    <tr><td>BARRIO</td><td>TORRES DE MODELIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.127994,4.664601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 19  #  69F - 25</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 19  #  69F - 25</td></tr>
+    <tr><td>BARRIO</td><td>FRANCO</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.122315,4.650003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 53 A  #  71 C 20 L-4</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 53 A  #  71 C 20 L-4</td></tr>
+    <tr><td>BARRIO</td><td>NORMANDIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>ENGATIVA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.10571,4.671391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra. 53 # 57 - 08 Bl-A1 Etap.1</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra. 53 # 57 - 08 Bl-A1 Etap.1</td></tr>
+    <tr><td>BARRIO</td><td>PAULO VI</td></tr>
+    <tr><td>LOCALIDAD</td><td>TEUSAQUILLO</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.086957,4.64932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 13  # 59-16</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 13  # 59-16</td></tr>
+    <tr><td>BARRIO</td><td>PUENTE ARANDA</td></tr>
+    <tr><td>LOCALIDAD</td><td>PUENTE ARANDA</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.11161199999999,4.632052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra 45 # 22B-86 L 107</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra 45 # 22B-86 L 107</td></tr>
+    <tr><td>BARRIO</td><td>QUINTA PAREDES</td></tr>
+    <tr><td>LOCALIDAD</td><td>TEUSAQUILLO</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.09490700000001,4.634681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daig. 33B # 69 - 55 L 215 Modulo I</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Daig. 33B # 69 - 55 L 215 Modulo I</td></tr>
+    <tr><td>BARRIO</td><td>TERMINAL DE TRANSPORTES</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.114378,4.655547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avda Calle 26 # 62 -49 Isla 204</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Avda Calle 26 # 62 -49 Isla 204</td></tr>
+    <tr><td>BARRIO</td><td>CIUDAD SALITRE NOR-ORIENTAL</td></tr>
+    <tr><td>LOCALIDAD</td><td>TEUSAQUILLO</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.105299,4.648937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 71  # 21-91</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 71  # 21-91</td></tr>
+    <tr><td>BARRIO</td><td>FRANCO</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.120803,4.654418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avenida El Dorado  # 68 C 61 Local 133</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Avenida El Dorado  # 68 C 61 Local 133</td></tr>
+    <tr><td>BARRIO</td><td>CIUDAD SALITRE OCCIDENTAL</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.10602400000001,4.656447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 11A 73A 41 Local 2</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 11A 73A 41 Local 2</td></tr>
+    <tr><td>BARRIO</td><td>VILLA ALSACIA 2</td></tr>
+    <tr><td>LOCALIDAD</td><td>KENNEDY</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.136976,4.643677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 79D  #  13A-03</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 79D  #  13A-03</td></tr>
+    <tr><td>BARRIO</td><td>VISION DE COLOMBIA</td></tr>
+    <tr><td>LOCALIDAD</td><td>KENNEDY</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.13578,4.650863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 13  # 68 B 78Interior 6</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 13  # 68 B 78Interior 6</td></tr>
+    <tr><td>BARRIO</td><td>GRANJAS DE TECHO</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.12156,4.639911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 17 A N. 69-16</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 17 A N. 69-16</td></tr>
+    <tr><td>BARRIO</td><td>MONTEVIDEO</td></tr>
+    <tr><td>LOCALIDAD</td><td>FONTIBON</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.12081000000001,4.645197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 12 # 9 - 10</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 12 # 9 - 10</td></tr>
+    <tr><td>BARRIO</td><td>EUGENIO DIAZ CASTRO</td></tr>
+    <tr><td>LOCALIDAD</td><td>COMUNA 2</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.22082399999999,4.583439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 6 Nro 6A - 10Etapa 1 Manzana 6Casa 21</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 6 Nro 6A - 10Etapa 1 Manzana 6Casa 21</td></tr>
+    <tr><td>BARRIO</td><td>QUINTAS DE LA LAGUNA</td></tr>
+    <tr><td>LOCALIDAD</td><td>COMUNA 2</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.225765,4.581347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 6 # 5-24</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 6 # 5-24</td></tr>
+    <tr><td>BARRIO</td><td>QUINTAS DE LA LAGUNA</td></tr>
+    <tr><td>LOCALIDAD</td><td>COMUNA 2</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.22595,4.579336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 4  # 4-21</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 4  # 4-21</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.514431,4.794405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.3  #  6-33/36</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.3  #  6-33/36</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.48418100000001,3.98479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 3  # 2-46</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 3  # 2-46</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.43534800000001,4.730288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 4  #  8 - 03</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 4  #  8 - 03</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.592936,5.424496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 3  #  3-04</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 3  #  3-04</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.946473,4.403676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 5  #  3 - 13</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 5  #  3 - 13</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.04443600000001,4.441921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 1 2 69</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 1 2 69</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.922963,4.528877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 13  # 13-65</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 13  # 13-65</td></tr>
+    <tr><td>BARRIO</td><td>CENTRO</td></tr>
+    <tr><td>LOCALIDAD</td><td>Funza (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.21263399999999,4.716162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.3  #  6-58</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.3  #  6-58</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.637418,4.816806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 4 # 3 - 37</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 4 # 3 - 37</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.686939,5.383675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 1  # 5-26</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 1  # 5-26</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.83364400000001,4.934487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 2  #  1-42</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 2  #  1-42</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.817204,4.218475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 8 # 18 – 47</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 8 # 18 – 47</td></tr>
+    <tr><td>BARRIO</td><td>EL CENTRO</td></tr>
+    <tr><td>LOCALIDAD</td><td>La Mesa (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.461693,4.632951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 21 # 5-14</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 21 # 5-14</td></tr>
+    <tr><td>BARRIO</td><td>EL CENTRO</td></tr>
+    <tr><td>LOCALIDAD</td><td>La Mesa (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.46241000000001,4.630627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.3  #  3-45</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.3  #  3-45</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.711727,5.306899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 7  # 11-14</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 7  # 11-14</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.326568,4.575681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 1 # 4-12</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 1 # 4-12</td></tr>
+    <tr><td>BARRIO</td><td>ARGENITA</td></tr>
+    <tr><td>LOCALIDAD</td><td>Mosquera (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.228343,4.705484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 10 #  12B-39</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 10 #  12B-39</td></tr>
+    <tr><td>BARRIO</td><td>SANTA ANA</td></tr>
+    <tr><td>LOCALIDAD</td><td>Mosquera (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.228201,4.716102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Call 3  #  1-20</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Call 3  #  1-20</td></tr>
+    <tr><td>BARRIO</td><td>ARGENITA</td></tr>
+    <tr><td>LOCALIDAD</td><td>Mosquera (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.229052,4.704834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 1 # 42 – 14</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 1 # 42 – 14</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.486751,4.19065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.9  #  2-04</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.9  #  2-04</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.221575,4.630425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 13 # 11 - 47</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 13 # 11 - 47</td></tr>
+    <tr><td>BARRIO</td><td>URBANIZACION VILLA MERCELA</td></tr>
+    <tr><td>LOCALIDAD</td><td>Mosquera (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.226353,4.716717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 59  #  3-24</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 59  #  3-24</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.87132200000001,4.33019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trans 2  #  3-22</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Trans 2  #  3-22</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.87132200000001,4.33019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Avda.2  #  7-34</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Avda.2  #  7-34</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.573103,4.711427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 6  #  6-120</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 6  #  6-120</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.79625,5.054115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 8  # 7-03</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 8  # 7-03</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.83272100000001,5.497879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 3  #  3-52</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 3  #  3-52</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td>Subachoque (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.173816,4.929017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 8  # 6-54</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 8  # 6-54</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.791884,5.090861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 4  #  7-57</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 4  #  7-57</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.235546,5.061607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 4  # 9-15 Centro</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 4  # 9-15 Centro</td></tr>
+    <tr><td>BARRIO</td><td>CENTRO</td></tr>
+    <tr><td>LOCALIDAD</td><td>COMUNA CENTRO</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.635609,4.460334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.5  #  2-30</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.5  #  2-30</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.933988,4.483819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cra.7  #  10-68</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Cra.7  #  10-68</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.814027,5.307242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 3 #  4-13</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 3 #  4-13</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.025384,4.402585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 3 #  4-32</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 3 #  4-32</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.48145700000001,5.187785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 4  #  4-48</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 4  #  4-48</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.560517,4.875749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 4  #  5-50</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 4  #  5-50</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.594315,5.217896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 9 # 3-55</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 9 # 3-55</td></tr>
+    <tr><td>BARRIO</td><td></td></tr>
+    <tr><td>LOCALIDAD</td><td></td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-74.340458,5.745471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrera 4 #  2J -58</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Carrera 4 #  2J -58</td></tr>
+    <tr><td>BARRIO</td><td>URBANIZACION RINCON DE BARANDILLAS</td></tr>
+    <tr><td>LOCALIDAD</td><td>Zipaquira (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.96776,5.022191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calle 1 #  10-04 Lc 1-18</name>
+			<description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+    <tr><td>DIRECCION</td><td> Calle 1 #  10-04 Lc 1-18</td></tr>
+    <tr><td>BARRIO</td><td>SAN MIGUEL</td></tr>
+    <tr><td>LOCALIDAD</td><td>Zipaquira (Cmarca)</td></tr>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>-73.960927,5.036648,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
