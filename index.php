@@ -22,7 +22,7 @@
   <body>
       <?php
       //en el server dependiendo puede cambiar
-      $urlDeMiLocalHost = "https://garlicsms.com/public/geolocator/uploads/cta.kml";
+      $urlDeMiLocalHost = "https://garlicsms.com/public/geolocator/uploads/";
 
       //copiado de internet para subir archivos
 
