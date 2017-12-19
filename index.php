@@ -22,7 +22,7 @@
   <body>
       <?php
       //en el server dependiendo puede cambiar
-      $urlDeMiLocalHost = "http://localhost/geolocator/uploads/";
+      $urlDeMiLocalHost = "http://localhost/geolocator/uploads/s.kml";
 
       //copiado de internet para subir archivos
 
@@ -52,7 +52,7 @@
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 11,
           //-74.028764,4.768023,0
-          center: {lat: -74.028764, lng: 4.768023}
+          center: {lat: 4.67, lng: -74.04}
         });
 
         var ctaLayer = new google.maps.KmlLayer({
